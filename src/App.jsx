@@ -1,5 +1,5 @@
 import { createRoot } from "react-dom/client";
-import SearchParams from "../SearchParams";
+import SearchParams from "./SearchParams";
 // Your code is going to go here
 // always capitalize components
 const App = () => {
